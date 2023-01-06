@@ -1,0 +1,47 @@
+body{
+    background-image: url("img3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+}
+.ListArea{
+    float:right;
+    margin-right:90px;
+}
+.input{
+    padding-right:120px ;
+    
+}
+.inputbox{
+    font-weight: 600;
+    font-size: 20px ;
+}
+
+.inpval{
+    padding:5px;
+    margin:5px;
+    width: 400px;
+    font-size: 20px;
+    border-radius: 3px;
+    border: 3px solid #000;
+}
+
+.ListArea{
+    padding: 50px;
+}
+
+.divtxt{
+    float:right;
+}
+.btn{
+    padding:10px;
+    font-weight: 700;
+    background-color: gray;
+}
+
+.listdgn{
+    font-size: 20px;
+    font-weight: 6
+    00;
+    color: blue;
+}
